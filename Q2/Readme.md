@@ -1,4 +1,4 @@
-### Discription
+# Discription
 ## Approach 1: Iterative
 - Time complexity: O(n) per query
 - Space complexity: O(1)
