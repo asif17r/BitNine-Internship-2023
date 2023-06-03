@@ -6,8 +6,8 @@
     - Easy to implement & understand
     - No memory required
 - Cons:
-    - It is very slow for large number
-    - It is also slow for multiple queries as it don't store anything
+    - It is very slow for large numbers
+    - It is also slow for multiple queries as it doesn't store anything
 
 ## Approach 2: Dynamic Programming
 - Time complexity: O(n) over all queries
@@ -17,8 +17,8 @@
     - Easy to implement & understand
     - Doesn't recalculate the same value again
 - Cons:
-    - Memory requirment is high
-    - Can not process large number as it is limited by the size of the array
+    - Memory requirement is high
+    - Can not process large numbers as it is limited by the size of the array
 
 ## Approach 3: Matrix Multiplication
 - Time complexity: O(log(n)) per query
